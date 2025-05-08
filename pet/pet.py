@@ -17,7 +17,7 @@ class Pet:
     def getWeight(self):
         return self._weight
     
-    def isApoptable(self):
+    def isAdoptable(self):
         return self._age < 10 and self._weight < 100
     
     def __eq__(self, other):
