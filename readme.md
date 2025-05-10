@@ -1,6 +1,6 @@
 # OOP Practice
 
-This repository is dedicated to practicing Object-Oriented Programming (OOP) concepts in Python. It includes examples and exercises I use as practice.
+This repository is dedicated to practicing Object-Oriented Programming (OOP) concepts in Python. It includes examples and exercises I use as practice. These practices are tailored to be similar to my exam review.
 
 ## Topics Covered
 - Classes and Objects
